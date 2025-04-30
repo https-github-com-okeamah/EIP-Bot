@@ -1599,10 +1599,12 @@
   resolved "https://registry.yarnpkg.com/@types/estree/-/estree-0.0.48.tgz#18dc8091b285df90db2f25aa7d906cfc394b7f74"
   integrity sha512-LfZwXoGUDo0C3me81HXgkBg5CTQYb6xzEl+fNmbO4JdRiSKQ8A0GD1OBBvKAIsbCUgoyAty7m99GqqMQe784ew==
 
-"@types/faker@^5.5.7":
-  version "5.5.8"
-  resolved "https://registry.yarnpkg.com/@types/faker/-/faker-5.5.8.tgz#6649adfdfdbb0acf95361fc48f2d0ca6e88bd1cf"
-  integrity sha512-bsl0rYsaZVHlZkynL5O04q6YXDmVjcid6MbOHWqvtE2WWs/EKhp0qchDDhVWlWyQXUffX1G83X9LnMxRl8S/Mw==
+"@types/faker@^6.6.8":
+  version "6.6.11"
+  resolved "https://registry.yarnpkg.com/@types/faker/-/faker-6.6.11.tgz#ef9e9490c96522c7c36f90f00b17a88d78a1bd84"
+  integrity sha512-/m/YZdfPXeM3dnSBz4JDbbYXelBm+onjsX2+LZV1XPJjIOpdhoc8ngws67iyXdLJwLiigOcejBufaDdjuVWy3Q==
+  dependencies:
+    faker "*"
 
 "@types/graceful-fs@^4.1.2":
   version "4.1.5"
@@ -2704,6 +2706,11 @@ expect@^27.2.0:
     jest-matcher-utils "^27.2.0"
     jest-message-util "^27.2.0"
     jest-regex-util "^27.0.6"
+
+faker@*:
+  version "6.6.6"
+  resolved "https://registry.yarnpkg.com/faker/-/faker-6.6.6.tgz#e9529da0109dca4c7c5dbfeaadbd9234af943033"
+  integrity sha512-9tCqYEDHI5RYFQigXFwF1hnCwcWCOJl/hmll0lr5D2Ljjb0o4wphb69wikeJDz5qCEzXCoPvG6ss5SDP6IfOdg==
 
 faker@^5.5.3:
   version "5.5.3"

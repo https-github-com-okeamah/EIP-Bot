@@ -31,7 +31,7 @@
     "http-status": "^1.8.0",
     "lodash": "^4.17.21",
     "nock": "^14.0.2",
-    "prettier": "^2.4.1",
+    "prettier": "^3.7.4",
     "tsconfig-paths-jest": "^0.0.1",
     "type-fest": "^4.39.0",
     "underscore": "^1.13.2"

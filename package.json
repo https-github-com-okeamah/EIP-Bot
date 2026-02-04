@@ -33,7 +33,7 @@
     "nock": "^14.0.2",
     "prettier": "^2.4.1",
     "tsconfig-paths-jest": "^0.0.1",
-    "type-fest": "^4.39.0",
+    "type-fest": "^5.4.1",
     "underscore": "^1.13.2"
   },
   "devDependencies": {

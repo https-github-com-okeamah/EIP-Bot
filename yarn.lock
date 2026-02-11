@@ -1350,10 +1350,10 @@
     "@types/yargs" "^16.0.0"
     chalk "^4.0.0"
 
-"@mswjs/interceptors@^0.38.5":
-  version "0.38.6"
-  resolved "https://registry.yarnpkg.com/@mswjs/interceptors/-/interceptors-0.38.6.tgz#0646060b5572ff884cf475af90505e757115eddf"
-  integrity sha512-qFlpmObPqeUs4u3oFYv/OM/xyX+pNa5TRAjqjvMhbGYlyMhzSrE5UfncL2rUcEeVfD9Gebgff73hPwqcOwJQNA==
+"@mswjs/interceptors@^0.41.0":
+  version "0.41.2"
+  resolved "https://registry.yarnpkg.com/@mswjs/interceptors/-/interceptors-0.41.2.tgz#6e490a41f9701edf237aa561b5cd23fe262f4ce6"
+  integrity sha512-7G0Uf0yK3f2bjElBLGHIQzgRgMESczOMyYVasq1XK8P5HaXtlW4eQhz9MBL+TQILZLaruq+ClGId+hH0w4jvWw==
   dependencies:
     "@open-draft/deferred-promise" "^2.2.0"
     "@open-draft/logger" "^0.3.0"
@@ -3968,12 +3968,12 @@ nock@*:
     lodash.set "^4.3.2"
     propagate "^2.0.0"
 
-nock@^14.0.2:
-  version "14.0.4"
-  resolved "https://registry.yarnpkg.com/nock/-/nock-14.0.4.tgz#10a63116d13c37f169a52ad4bbf0173af34c1992"
-  integrity sha512-86fh+gIKH8H02+y0/HKAOZZXn6OwgzXvl6JYwfjvKkoKxUWz54wIIDU/+w24xzMvk/R8pNVXOrvTubyl+Ml6cg==
+nock@^14.0.10:
+  version "14.0.11"
+  resolved "https://registry.yarnpkg.com/nock/-/nock-14.0.11.tgz#4ed20d50433b0479ddabd9f03c5886054608aeae"
+  integrity sha512-u5xUnYE+UOOBA6SpELJheMCtj2Laqx15Vl70QxKo43Wz/6nMHXS7PrEioXLjXAwhmawdEMNImwKCcPhBJWbKVw==
   dependencies:
-    "@mswjs/interceptors" "^0.38.5"
+    "@mswjs/interceptors" "^0.41.0"
     json-stringify-safe "^5.0.1"
     propagate "^2.0.0"
 
